@@ -1,3 +1,3 @@
 name = "vedant"
 print(name)
-print(name [1:4]) #trimming
+print(name [2:4]) #trimming
