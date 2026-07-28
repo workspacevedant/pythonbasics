@@ -4,7 +4,7 @@ print(l1)
 #string is immutable, but lists can be mutated
 
 l1.remove("vedant")
-
+l1.extend([64, 75, 89])
 l1.sort()
 print(l1)
 
