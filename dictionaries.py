@@ -9,3 +9,8 @@ dict2["9"] = "banana"
 
 print(dict1)
 print(dict2)
+
+print(dict1.keys())
+print(dict1.values())
+print(dict2.keys())
+print(dict2.values())
