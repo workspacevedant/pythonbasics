@@ -2,7 +2,7 @@ s = "vedant is a good boi"
 
 # reading a file
 
-with open("test.txt", "r") as f:
+with  open("test.txt", "r") as f:
     s = f.read()
     print(s)
 
