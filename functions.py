@@ -12,7 +12,7 @@ def name():
     print("vedant")
 
 def lettergen(name, date):
-    st = f"hello, this is {name}, i want leave on {date}"
+    st = f"hello,\n this is {name},\n i want leave on {date}"
     print(st)
 
 
