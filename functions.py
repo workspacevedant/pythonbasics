@@ -19,5 +19,6 @@ def lettergen(name, date):
 print("executing ............")
 
 name()
+lettergen("vedant", "20th august")
 
 print("done")
