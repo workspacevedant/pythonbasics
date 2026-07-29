@@ -22,10 +22,11 @@ name()
 lettergen("vedant", "20th august")
 
 def avg(a, b):
-    print(f"{a} + {b} = {(a+b)/2}")
+    return (a+b)/2
+    #print(f"{a} + {b} = {(a+b)/2}")
 
-avg(6, 12)
-
+#avg(6, 12)
+print(avg(6, 12))
 print("done")
 
 
