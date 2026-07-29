@@ -8,6 +8,9 @@ class employee:
         return self.salary
 
 
-rohan = employee("rohan", 50000)
+rohan = employee("rohan", "50000")
 print(rohan.salary)
 print(rohan.name)
+ayush = employee("ayush", "80000")
+print(ayush.salary)
+print(ayush.name)
