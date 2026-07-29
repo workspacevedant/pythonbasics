@@ -21,4 +21,11 @@ print("executing ............")
 name()
 lettergen("vedant", "20th august")
 
+def avg(a, b):
+    print(f"{a} + {b} = {(a+b)/2}")
+
+avg(6, 12)
+
 print("done")
+
+
